@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <plugins>
+    <plugin>
+      <prefix>johnzon</prefix>
+      <artifactId>johnzon-maven-plugin</artifactId>
+      <name>Johnzon :: Maven Plugin</name>
+    </plugin>
+  </plugins>
+</metadata>
